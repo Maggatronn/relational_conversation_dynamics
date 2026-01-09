@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/relational_conversation_dynamics/static/js/main.db7c9fc8.js",
+    "main.js": "/relational_conversation_dynamics/static/js/main.54446b65.js",
     "index.html": "/relational_conversation_dynamics/index.html",
-    "main.db7c9fc8.js.map": "/relational_conversation_dynamics/static/js/main.db7c9fc8.js.map"
+    "main.54446b65.js.map": "/relational_conversation_dynamics/static/js/main.54446b65.js.map"
   },
   "entrypoints": [
-    "static/js/main.db7c9fc8.js"
+    "static/js/main.54446b65.js"
   ]
 }
